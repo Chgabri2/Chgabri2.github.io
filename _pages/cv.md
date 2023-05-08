@@ -26,7 +26,6 @@ Work experience
 
 * 2021 - 2022 – Python course lecturer for teenagers 
   * Ben Gurion University of the Negev
-  * As part of Atidim program
 
 * 2020 - 2022 – Teaching Assistant
   * Ben Gurion University of the Negev
