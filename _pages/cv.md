@@ -58,7 +58,6 @@ Publications
   
   
   
-google-site-verification: google106505d8a1b46d90.html
 
 
 <!-- A geometric method for improved uncertainty estimation in real-time- Uncertainty in AI 2022
