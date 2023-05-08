@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-XXX
+google-site-verification: google106505d8a1b46d90.html
