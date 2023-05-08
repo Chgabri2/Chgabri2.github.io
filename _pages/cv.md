@@ -13,11 +13,11 @@ Education
 ======
 
 * M.Sc in Computer Science, Ben Gurion University of the Negev, 2020-2022
--	Specialization in Machine learning
--	Experimental research on images datasets
+  * Specialization in Machine learning
+  * Experimental research on images datasets
 
 * B.A in Computer Science and Cognitive Science, The Open University of Israel, 2018-2020
-GPA-87
+  GPA-87
 
 
 Work experience
@@ -64,13 +64,13 @@ Uncertainty Estimation based on Geometric Separation- submitted 2023 -->
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> 
   
-<!-- Teaching -->
+<!-- Teaching 
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> 
 <!--   
 Service and leadership
 ======
