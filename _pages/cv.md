@@ -29,7 +29,7 @@ Work experience
 
 * 2020 - 2022 – Teaching Assistant
   * Ben Gurion University of the Negev
-  * Computational Moidels course
+  * Computational Models course
 
 
   
