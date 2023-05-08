@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
-excerpt: "This page is in proccess <br/><img src='/images/Tractor.png'>"
+title: "This page is in proccess"
+excerpt: "Come to see us back  ;)  <br/><img src='/images/Tractor.png'>"
 collection: portfolio
 ---
 
-Come to see us back  ;)  
+
