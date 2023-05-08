@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Google"
-permalink: /google/
+permalink: /google106505d8a1b46d90.html
 author_profile: true
 redirect_from:
   - /resume
