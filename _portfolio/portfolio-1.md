@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-excerpt: "This page is in proccess 1<br/><img src='/images/Tractor.png'>"
+excerpt: "This page is in proccess <br/><img src='/images/Tractor.png'>"
 collection: portfolio
 ---
 
