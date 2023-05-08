@@ -1,5 +1,12 @@
-layout: page
-title: "google"
-permalink: /google
+---
+layout: archive
+title: "Google"
+permalink: /google/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
- google106505d8a1b46d90.html 
+{% include base_path %}
+
+XXX
