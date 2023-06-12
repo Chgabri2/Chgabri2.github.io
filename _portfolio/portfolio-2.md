@@ -1,6 +1,6 @@
 
 title: "CTFs for fun ;)"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/flag.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/Nulab-Capture-the-Flag-CTF-Challenge-Blog.png'>"
 collection: portfolio
 ---
 
